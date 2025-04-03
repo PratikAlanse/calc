@@ -9,11 +9,17 @@ class Add {
 		a2=sc.nextInt();
 		int sum=0;
 <<<<<<< HEAD
+<<<<<<< HEAD
 		sum = a1-a2;
 		system.out.print(sum);
 =======
-		mul = a1*a2;
-		system.out.print(mul);
+
 >>>>>>> 20bb19d0a576df69db72f56dae319bab6fb87e73
+=======
+		sum = a1+a2;
+		double mul = a1*a2;
+		system.out.print(mul);
+		system.out.print(sum);
+>>>>>>> 18d3b39d462188ab09c2fc5ed27364e5d6550781
 	}
 }
