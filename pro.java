@@ -8,7 +8,7 @@ class Add {
 		a1=sc.nextInt();
 		a2=sc.nextInt();
 		int sum=0;
-		sum = a1+a2;
-		system.out.print(sum);
+		mul = a1*a2;
+		system.out.print(mul);
 	}
 }
